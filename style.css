@@ -1,5 +1,5 @@
 body {
-  background-color: #fefae0;
+  background-color: hsl(120, 5%, 33%);
   /* background-image: url(./bgimg.jpg); */
   background-attachment: fixed;
   background-position: center;
@@ -132,6 +132,7 @@ ul.timeline > li:before {
   justify-content: center;
   align-items: center;
   color: #fff; /* Text color */
+  height: 100vh;
 }
 
 .parallax2 {
@@ -140,7 +141,7 @@ ul.timeline > li:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* height: 100vh; Adjust height as needed */
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -152,7 +153,7 @@ ul.timeline > li:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* height: 100vh; Adjust height as needed */
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -175,7 +176,7 @@ ul.timeline > li:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* height: 100vh; Adjust height as needed */
+  height: 100vh; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -187,7 +188,7 @@ ul.timeline > li:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* height: 100vh; Adjust height as needed */
+  height: 100vh; 
   display: flex;
   justify-content: center;
   align-items: center;
