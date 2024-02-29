@@ -1,6 +1,6 @@
 body {
   background-color: #fefae0;
-  background-image: url(./bgimg.jpg);
+  /* background-image: url(./bgimg.jpg); */
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -100,4 +100,97 @@ ul.timeline > li:before {
   width: 20px;
   height: 20px;
   z-index: 400;
+}
+
+/* Parallax styles */
+.parallax {
+  background-image: url('./bg3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+
+.parallax-content {
+  text-align: center;
+}
+
+
+.parallax1 {
+  background-image: url('./Bgimg1.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+
+.parallax2 {
+  background-image: url('./bg2.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+.parallax3 {
+  background-image: url('./bg3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+.parallax4 {
+  background-image: url('./bg4.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+.parallax5 {
+  background-image: url('./bg5.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
+}
+.parallax6 {
+  background-image: url('./bg6.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* Text color */
 }
