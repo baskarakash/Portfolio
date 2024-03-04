@@ -104,7 +104,7 @@ ul.timeline > li:before {
 
 /* Parallax styles */
 .parallax {
-  background-image: url('./bg3.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -122,7 +122,7 @@ ul.timeline > li:before {
 
 
 .parallax1 {
-  background-image: url('./bg2.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -136,7 +136,7 @@ ul.timeline > li:before {
 }
 
 .parallax2 {
-  background-image: url('./Bgimg1.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -148,7 +148,7 @@ ul.timeline > li:before {
   color: #fff; /* Text color */
 }
 .parallax3 {
-  background-image: url('./bg3.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -160,7 +160,7 @@ ul.timeline > li:before {
   color: #fff; /* Text color */
 }
 .parallax4 {
-  background-image: url('./bg4.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -171,7 +171,7 @@ ul.timeline > li:before {
   color: #fff; /* Text color */
 }
 .parallax5 {
-  background-image: url('./bg5.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -183,7 +183,7 @@ ul.timeline > li:before {
   color: #fff; /* Text color */
 }
 .parallax6 {
-  background-image: url('./bg6.jpg');
+  background-image: url('./bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
