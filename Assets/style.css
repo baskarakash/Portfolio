@@ -23,6 +23,8 @@ body {
 .content-card {
   background-color: #414141;
   border: 1px solid #b3b3b3;
+  display: flex;
+  justify-content: center;
 }
 
 .custom-seperator {
@@ -31,6 +33,7 @@ body {
 .card {
   background-color: transparent;
   border: none;
+  margin: auto;
 }
 
 .navbar {
